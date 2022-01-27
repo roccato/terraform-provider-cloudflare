@@ -44,7 +44,7 @@ values must match in order to be included, see below for full list.
 
 ## Attributes Reference
 
-- `packages` - A map of WAF Rule Packages details. Full list below:
+- `packages` - A list of WAF Rule Packages details. Full list below:
 
 **packages**
 
